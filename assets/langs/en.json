@@ -1,0 +1,14 @@
+{
+    "appTitle":"i-frame App",
+    "internet_connection_error": "No internet connection",
+    "retry": "Retry",
+    "add_connection":"Please Add a Connection",
+    "internet_connection_explanation":"Please check your connection and try again.",
+    "connection_add":"Please Add a Connection",
+    "warning":"Warning",
+    "connection_failed_by_userinfo":"Connection is failed. Please check your username or password.",
+    "error_try_again":"An error occurred. Please try again later!",
+    "delete":"Delete",
+    "site_address":"Site Address",
+    "username":"Username"
+}

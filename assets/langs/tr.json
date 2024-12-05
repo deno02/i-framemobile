@@ -1,0 +1,14 @@
+{
+    "appTitle":"i-frame App",
+    "internet_connection_error": "İnternet bağlantısı yok",
+    "retry": "Tekrar Dene",
+    "add_connection":"Lütfen bağlantı ekleyin",
+    "internet_connection_explanation":"Lütfen bağlantınızı kontrol edip tekrar deneyin",
+    "connection_add":"Lütfen bir bağlantı ekleyin",
+    "warning":"Uyarı",
+    "connection_failed_by_userinfo":"Bağlantı'da sorun var. Lütfen kullanıcı adı ve şifrenizi kontrol ediniz.",
+    "error_try_again":"Bir sorun oluştu lütfen daha sonra tekrar deneyin",
+    "delete":"Sil",
+    "site_address":"Site Adresi",
+    "username":"Kullanıcı adı"
+  }
